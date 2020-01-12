@@ -1,2 +1,2 @@
 # Android-Calculator
- A simple calculaotr app created using Android Studio
+ A simple calculator app created using Android Studio
